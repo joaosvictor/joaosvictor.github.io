@@ -23,7 +23,9 @@
 .instagram-logo {
      width: 26px;
      height: 26px;
-     margin-top: 16px;
+     justify-content: center;
+     align-content: center;
+     text-align: center;
 }
 
 .instagram-logo2 {
@@ -58,6 +60,8 @@
      background-color: #38c9f5;
      border-radius: 12px;
      border: 1px solid white;
+     text-decoration: none;
+     font-family: Arial, Helvetica, sans-serif;
      justify-content: center;
      align-content: center;
      text-align: center;
