@@ -10,7 +10,9 @@
     align-content: center;
     /*margin-left: 480px;*/
     text-align: center;
+    
 }
+
 
 .instagram-logo {
      width: 26px;
@@ -18,18 +20,50 @@
      margin-top: 16px;
 }
 
-a {
+.instagram-logo2 {
+     width: 30px;
+     height: 30px;
+     margin-top: 20px;
+     justify-content: right;
+     align-content: right;
+     text-align: right;
+     display: block;
+     margin-left: auto;
+     align-items: right;
+}
+
+.a1{
+    justify-content: right;
+    align-content: right;
+    text-align: right;
+    display: block;
+    margin-left: auto;
+    align-items: right;
+    transition: transform .1s;
+}
+
+.a1:hover {
+  transform: scale(1.0); /* (150% zoom - Note: if the zoom is too large, it will go outside of the viewport) */
+}
+
+.a2{
      height: 63px;
      width: 103px;
      background-color: #38c9f5;
      border-radius: 12px;
      border: 1px solid white;
      justify-content: center;
-     align-items: center;
      align-content: center;
      text-align: center;
+     transition: transform .1s;
+     align-items: center;
      margin-left: auto;
      margin-right: auto;
 
      display: inline-block;
 }
+
+.a2:hover {
+  transform: scale(1.2); /* (150% zoom - Note: if the zoom is too large, it will go outside of the viewport) */
+}
+
