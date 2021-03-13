@@ -10,11 +10,11 @@
 }
 
 a {
-     height: 60px;
-     width: 100px;
+     height: 63px;
+     width: 103px;
      background-color: #34c934;
      border-radius: 12px;
-     border: 1px solid blue;
+     border: 1px solid white;
      justify-content: center;
      align-items: center;
      margin-left: auto;
