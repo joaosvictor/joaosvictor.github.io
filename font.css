@@ -6,6 +6,12 @@
   font-size: 96px;
 }
 
+.div1{
+    align-content: center;
+    /*margin-left: 480px;*/
+    text-align: center;
+}
+
 .instagram-logo {
      width: 26px;
      height: 26px;
@@ -20,6 +26,8 @@ a {
      border: 1px solid white;
      justify-content: center;
      align-items: center;
+     align-content: center;
+     text-align: center;
      margin-left: auto;
      margin-right: auto;
 
