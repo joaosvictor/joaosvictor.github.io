@@ -139,7 +139,7 @@
   border: 1px;
   border-color: #ffffff; 
   background-color: #ffffff;
-  margin: 26px;
+  margin: 30px;
   justify-content: center;
   align-content: center;
   text-align: center;
@@ -150,6 +150,12 @@
   font-size: 16px;
 }
 
+.fontBox1{
+  font-family: 'Montserrat', sans-serif;
+  font-size: 16px;
+}
+
 html {
   scroll-behavior: smooth;
 }
+
