@@ -1,5 +1,5 @@
 .body{
-    background-color: #eff2eb;
+  background-color: #eff2eb;
 }
 
 /* For mobile phones: */
@@ -145,7 +145,10 @@
   text-align: center;
 }
 
+.fontBox{
+  font-family: 'Raleway', sans-serif;
+}
+
 html {
   scroll-behavior: smooth;
 }
-
