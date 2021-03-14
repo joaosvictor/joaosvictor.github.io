@@ -60,16 +60,19 @@
 
 
 .instagram-logo {
-     width: 18px;
-     height: 18px;
-     margin-top: 10px;
+     width: 24px;
+     height: 24px;
+     margin-top: 14px;
+     justify-content: center;
+     align-content: center;
+     text-align: center;
 
 }
 
 .logo {
-     width: 18px;
-     height: 18px;
-     margin-top: 10px;
+     width: 24px;
+     height: 24px;
+     margin-top: 14px;
      justify-content: center;
      align-content: center;
      text-align: center;
