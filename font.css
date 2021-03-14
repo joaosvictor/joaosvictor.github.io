@@ -1,5 +1,5 @@
 .body{
-  background-color: #eff2eb;
+  background-color: #f4f5f2;
 }
 
 /* For mobile phones: */
@@ -130,16 +130,16 @@
 }
 
 .hr1{
-    border-color: #eff2eb;
+    border-color: #f4f5f2;
     height: 1px;
-    background-color: #eff2eb;
+    background-color: #f4f5f2;
 }
 
 .boxed {
   border: 1px;
-  border-color: #ffffff; 
+  border-color: #1b1b1c; 
   background-color: #ffffff;
-  margin: 30px;
+  margin: 40px;
   justify-content: center;
   align-content: center;
   text-align: center;
