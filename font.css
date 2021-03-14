@@ -171,6 +171,10 @@
   transform: scale(0.9); /* (150% zoom - Note: if the zoom is too large, it will go outside of the viewport) */
 }
 
+.fontBox4{
+  font-family: 'Raleway', sans-serif;
+}
+
 .footer{
   background-color: #f4f5f2;
   font-size: 45px; 
