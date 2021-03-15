@@ -106,7 +106,7 @@
   text-decoration: none;
 }
 
-.a2{
+/*.a2{/*
      height: 63px;
      width: 103px;
      background-color: #38c9f5;
@@ -123,11 +123,12 @@
      margin-right: auto;
 
      display: inline-block;
-}
+/*}/*
 
-.a2:hover {
+/*.a2:hover {/*
   transform: scale(1.2); /* (150% zoom - Note: if the zoom is too large, it will go outside of the viewport) */
-}
+/*}
+/*/
 
 .hr1{
     border-color: #f4f5f2;
