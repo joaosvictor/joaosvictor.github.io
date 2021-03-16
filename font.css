@@ -135,6 +135,9 @@
     border-color: #f4f5f2;
     height: 1px;
     background-color: #f4f5f2;
+    justify-content: center;
+    align-content: center;
+    width:50%;
 }
 
 .boxed {
