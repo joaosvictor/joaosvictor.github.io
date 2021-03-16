@@ -1,5 +1,5 @@
 .body{
-  background-color: #f7f7f5;
+  background-color: #f2f2f0;
 }
 
 /* For mobile phones: */
@@ -132,9 +132,9 @@
 
 
 .hr1{
-    border-color: #f7f7f5;
+    border-color: #f2f2f0;
     height: 1px;
-    background-color: #f4f5f2;
+    background-color: #f2f2f0;
     justify-content: center;
     align-content: center;
     width:50%;
