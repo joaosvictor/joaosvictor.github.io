@@ -149,17 +149,17 @@
 
 .fontBox{
   font-family: 'Raleway', sans-serif;
-  font-size: 16px;
+  font-size: 18px;
 }
 
 .fontBox1{
   font-family: 'Montserrat', sans-serif;
-  font-size: 16px;
+  font-size: 18px;
 }
 
 .fontBox2{
   font-family: 'Raleway', sans-serif;
-  font-size: 16px;
+  font-size: 18px;
 }
 
 .fontBox3{
@@ -167,6 +167,9 @@
   font-size: 50px;  
   transition: transform .1s;
   transition-delay: 250ms;
+  justify-content: center;
+  align-content: center;
+  text-align: center;
 }
 
 .fontBox3:hover {
@@ -175,6 +178,7 @@
 
 .fontBox4{
   font-family: 'Raleway', sans-serif;
+  font-size: 20px;
 }
 
 .footer{
