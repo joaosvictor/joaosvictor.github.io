@@ -184,6 +184,32 @@
   font-size: 20px;
 }
 
+.nameDate{
+  font-family: 'Montserrat', sans-serif;
+  text-align: left;
+  font-size: 14px;
+}
+
+.textimage{
+  justify-content: center;
+  align-content: center;
+  text-align: center;
+}
+
+.figcaption{
+  font-family: 'Montserrat', sans-serif;
+  font-size: 12px;
+  justify-content: center;
+  align-content: center;
+  text-align: center;
+}
+
+.sharecenter{
+  justify-content: center;
+  align-content: center;
+  text-align: center;
+}
+
 .footer{
   background-color: #f7f7f5;
   font-size: 45px; 
