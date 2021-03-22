@@ -140,19 +140,33 @@
     width:50%;
 }
 
+.bra{
+    display: block;
+    margin-bottom: 2px;
+    font-size:2px;
+    line-height: 3px;
+}
+
 .boxed {
+  overflow: hidden; 
+  max-width: 750px;
+  text-overflow: ellipsis;
   border: 1px;
   border-color: #1b1b1c; 
-  background-color: #fffffc;
-  margin: 100px;
+  border: 0;
+  background-color: #ffffff;
+  margin-left: 0;
+  margin-right: 0;
+  margin: 50px auto;
   justify-content: center;
+  text-indent: 40px;
   align-content: center;
   text-align: center;
 }
 
 .fontBox{
   font-family: 'Raleway', sans-serif;
-  font-size: 17px;
+  font-size: 18px;
 }
 
 .fontBox1{
@@ -162,7 +176,7 @@
 
 .fontBox2{
   font-family: 'Raleway', sans-serif;
-  font-size: 17px;
+  font-size: 18px;
 }
 
 .fontBox3{
@@ -181,7 +195,7 @@
 
 .fontBox4{
   font-family: 'Raleway', sans-serif;
-  font-size: 20px;
+  font-size: 23px;
 }
 
 .nameDate{
