@@ -226,6 +226,31 @@
   text-align: center;
 }
 
+.publication{
+  justify-content: center;
+  align-content: center;
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+  margin: 10px auto 20px;
+  display: block;
+
+}
+
+.image:hover {
+  transform: scale(0.9); /* (150% zoom - Note: if the zoom is too large, it will go outside of the viewport) */
+}
+
+.image{
+  justify-content: center;
+  align-content: center;
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+  margin: 10px auto 20px;
+  display: block;
+}
+
 .footer{
   background-color: #f7f7f5;
   font-size: 45px; 
