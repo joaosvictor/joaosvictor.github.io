@@ -235,6 +235,24 @@
   text-align: center;
 }
 
+.references{
+  overflow: hidden; 
+  max-width: 750px;
+  text-overflow: ellipsis;
+  scroll-behavior: smooth;
+  border: 1px;
+  border-color: #1b1b1c; 
+  border: 0;
+  background-color: #ffffff;
+  margin-left: 0;
+  margin-right: 0;
+  margin: 50px auto;
+  justify-content: center;
+  text-indent: 40px;
+  align-content: center;
+  text-align: center;
+}
+
 .publication{
   justify-content: center;
   align-content: center;
