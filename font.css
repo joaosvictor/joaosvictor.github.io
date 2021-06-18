@@ -324,6 +324,10 @@
   height: 367;
 }
 
+.image99:hover {
+  transform: scale(0.9); /* (150% zoom - Note: if the zoom is too large, it will go outside of the viewport) */
+}
+
 .footer{
   background-color: #f7f7f5;
   font-size: 45px; 
