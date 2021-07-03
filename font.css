@@ -237,10 +237,22 @@
   font-size: 23px;
 }
 
+
+.fontBox5{
+  font-family: 'Raleway', sans-serif;
+  font-size: 19px;
+}
+
 .nameDate{
   font-family: 'Montserrat', sans-serif;
   text-align: left;
   font-size: 14px;
+}
+
+.nameDate1{
+  font-family: 'Montserrat', sans-serif;
+  text-align: left;
+  font-size: 19px;
 }
 
 .textimage{
