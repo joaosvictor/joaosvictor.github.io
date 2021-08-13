@@ -371,3 +371,13 @@ html {
   scroll-behavior: smooth;
 }
 
+::-moz-selection { /* Code for Firefox */
+  color: gray;
+  background: #ffeead;
+}
+
+::selection {
+  color: gray;
+  background: #ffeead;
+}
+
