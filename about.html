@@ -43,10 +43,25 @@
 
     <p class="fontBox2"></p>
 
-    <div class="boxedimg">
-        <img src="images/qrcode_joaosvictor.png" class="textimage">
-    </div>
-  </div>
+
+
+  <script>
+function copyToClipboard(element) {
+  var $temp = $("<input>");
+  $("body").append($temp);
+  $temp.val($(element).text()).select();
+  document.execCommand("copy");
+  $temp.remove();
+}
+</script>
+
+<div class="boxedimg">
+  <img src="images/qrcode_joaosvictor.png" class="textimage">
+</div>
+<button onclick="copyToClipboard('#boxedimg')"></button>
+
+
+</div>
 
   <footer class="footer">
     <p class="fontBox2">© 2021 João Victor. </p>
