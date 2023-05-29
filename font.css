@@ -270,6 +270,12 @@
   height: 367;
 }
 
+.bottom12{
+  font-family: 'Raleway', sans-serif;
+  text-align: center;
+  font-size: 18px;
+}
+
 .figcaption{
   font-family: 'Montserrat', sans-serif;
   font-size: 12px;
